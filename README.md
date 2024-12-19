@@ -2,6 +2,8 @@
 
 [![Ka Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamingfung)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-ka-ming-fung)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--  
 **kamingfung/kamingfung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
