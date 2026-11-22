@@ -12,6 +12,7 @@ Lead Data Scientist at [Fruitist](https://fruitist.com), forecasting blueberry y
 
 **Things I've built and maintain**
 
+- [principal-ds](https://github.com/kamingfung/principal-ds): an agent plugin for full-stack, client-facing data science — hypothesis-driven problem framing, Pandera-checked Python/ML pipelines, soundness-first code review, and Fall-palette HTML data decks & interactive reports ([global food supply example](https://github.com/kamingfung/principal-ds/tree/main/examples/global-food-supply)).
 - [hk-agent-skills](https://github.com/kamingfung/hk-agent-skills): Claude Code skills distilled from 200 cited sources, each pairing a working habit with a guardrail against its failure mode, with evals.
 - [chase_offer_auto_enroll](https://github.com/kamingfung/chase_offer_auto_enroll): a browser extension with real users. It only runs on `chase.com` and makes no network requests.
 - [investment-comparator-py](https://github.com/kamingfung/investment-comparator-py): total-return comparison with dividend reinvestment.
