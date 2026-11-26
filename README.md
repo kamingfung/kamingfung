@@ -14,7 +14,6 @@ Lead Data Scientist at [Fruitist](https://fruitist.com), forecasting blueberry y
 
 - [ds-lead](https://github.com/kamingfung/ds-lead): 16 agent skills for data science work that ends in a decision. They cover framing the question, writing and reviewing pipeline code, checking a number before you report it, and turning the result into decks, charts and one-page reports ([global food supply example](https://github.com/kamingfung/ds-lead/tree/main/examples/global-food-supply)).
 - [chase_offer_auto_enroll](https://github.com/kamingfung/chase_offer_auto_enroll): a browser extension with real users. It only runs on `chase.com` and makes no network requests.
-- [investment-comparator-py](https://github.com/kamingfung/investment-comparator-py): total-return comparison with dividend reinvestment.
 <!-- add investment_simulator here once it is pushed -->
 
 **Writing**
