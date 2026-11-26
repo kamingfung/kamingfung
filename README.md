@@ -12,7 +12,7 @@ Lead Data Scientist at [Fruitist](https://fruitist.com), forecasting blueberry y
 
 **Things I've built and maintain**
 
-- [principal-ds](https://github.com/kamingfung/principal-ds): an agent plugin for full-stack, client-facing data science — hypothesis-driven problem framing, Pandera-checked Python/ML pipelines, soundness-first code review, and Fall-palette HTML data decks & interactive reports ([global food supply example](https://github.com/kamingfung/principal-ds/tree/main/examples/global-food-supply)).
+- [ds-lead](https://github.com/kamingfung/ds-lead): 16 agent skills for data science work that ends in a decision. They cover framing the question, writing and reviewing pipeline code, checking a number before you report it, and turning the result into decks, charts and one-page reports ([global food supply example](https://github.com/kamingfung/ds-lead/tree/main/examples/global-food-supply)).
 - [chase_offer_auto_enroll](https://github.com/kamingfung/chase_offer_auto_enroll): a browser extension with real users. It only runs on `chase.com` and makes no network requests.
 - [investment-comparator-py](https://github.com/kamingfung/investment-comparator-py): total-return comparison with dividend reinvestment.
 <!-- add investment_simulator here once it is pushed -->
@@ -21,4 +21,4 @@ Lead Data Scientist at [Fruitist](https://fruitist.com), forecasting blueberry y
 
 [blogs.kamingfung.workers.dev](https://blogs.kamingfung.workers.dev): around 180 explainers across forecasting, statistics, atmospheric science and crop physiology. Each one starts from intuition, then the maths, then reproducible code.
 
-[Website](https://academic.kamingfung.workers.dev) · [LinkedIn](https://www.linkedin.com/in/kamingfung/) · [ORCID](https://orcid.org/0000-0002-7416-2534)
+[Website](https://kamingfung.github.io) · [LinkedIn](https://www.linkedin.com/in/kamingfung/) · [ORCID](https://orcid.org/0000-0002-7416-2534)
