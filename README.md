@@ -17,6 +17,6 @@ Lead Data and Climate Scientist, forecasting blueberry yield and weather risk fo
 
 **Writing**
 
-[blogs]([https://blogs.kamingfung.workers.dev](https://kamingfung.github.io)): about 180 explainers on forecasting, statistics, atmospheric science and crop physiology. Each starts with intuition, then the math, then reproducible code.
+[blogs](https://kamingfung.github.io): about 180 explainers on forecasting, statistics, atmospheric science and crop physiology. Each starts with intuition, then the math, then reproducible code.
 
 [Website](https://kamingfung.github.io) · [LinkedIn](https://www.linkedin.com/in/kamingfung/) · [ORCID](https://orcid.org/0000-0002-7416-2534)
